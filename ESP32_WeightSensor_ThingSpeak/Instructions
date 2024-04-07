@@ -1,0 +1,1 @@
+The code uses an arduino library for the HX711 by Rob Tillaart. The weight sensor must be calibrated with an example code for the library one time, then the values for the calibration must be inserted in the code.
