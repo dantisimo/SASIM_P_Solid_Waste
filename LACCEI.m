@@ -1,5 +1,8 @@
 clear
-c
+% ID Channel: 2499755
+%data = thingSpeakRead(2499755,'Fields',[1,2]);
+%tabla = data;
+
 % In case of wanting to use datasets,
 tabla = readtable('intento1.csv');       %table with column of time, weigh and capacity
 tablaX = readtable('DatosTiempo.xlsx');  %table with time in minutes
